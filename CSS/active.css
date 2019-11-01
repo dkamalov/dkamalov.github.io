@@ -105,7 +105,7 @@
     padding-right: 20px;
     padding-left: 20px;
     font-family: Courier;
-    position: absolute;
+  
     top: 290px;
     left: 200px;
     background-color: transparent;
@@ -128,14 +128,14 @@
   padding-right: 20px;
   padding-left: 20px;
   font-family: Courier;
-  position: absolute;
+
   top: 750px;
   left: 350px;
   background-color: transparent;
 }
 
 .btn2{
-  
+
   border: white;
   background: white;
   color: white;
@@ -152,8 +152,8 @@
   padding-right: 20px;
   padding-left: 20px;
   font-family: Courier;
-  position: absolute;
-  top: 850px;
+
+  top: 1050px;
   left:570px;
   background-color: transparent;
 }
