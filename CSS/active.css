@@ -176,7 +176,7 @@
  @media only screen and (max-width:300, max-height:600){
 
   [class* = "img"]{
-    width:70%;
+    width:100%;
   }
 }
 
