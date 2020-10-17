@@ -205,3 +205,10 @@
   hr{
     font-weight: bolder;
   }
+
+ol {
+    font-family: Courier;
+    font-size: 20px;
+     top: 190px;
+    left: 150px;
+}
