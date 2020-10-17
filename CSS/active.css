@@ -209,6 +209,6 @@
 ol {
     font-family: Courier;
     font-size: 20px;
-    position: abosolute; 
+    position: absolute; 
     bottom: 5px;
 }
