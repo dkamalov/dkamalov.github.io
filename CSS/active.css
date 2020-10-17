@@ -212,3 +212,11 @@ ol {
     position: absolute; 
     bottom: 5px;
 }
+
+li {
+  font-family: Courier;
+    font-size: 20px;
+    position: absolute; 
+    bottom: 5px;
+  
+}
